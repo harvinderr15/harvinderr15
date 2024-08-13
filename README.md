@@ -6,7 +6,7 @@
 🌌 **Data Mystic** | 🛠️ **Tech Sorcerer** | 🔮 **Insight Wizard**
 
 As a Data Engineer, I wield the power of data to unravel the mysteries of complex datasets and transform them into actionable insights. Using the finest tools of the trade and a touch of arcane knowledge, I ensure that your data journey is both enlightened and effective.
-
+https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif
 ## Arcane Tools & Artifacts
 - **Big Data Spells**: PySpark, Hive, Hadoop, Spark Streaming, Kafka
 - **Cloud Dimensions**: AWS EC2, GCP, Azure ML, Heroku
