@@ -1,6 +1,4 @@
-Here’s a README with a Doctor Strange theme:
 
----
 
 # Harvinder Singh - Data Sorcerer 🧙‍♂️✨
 
@@ -26,7 +24,3 @@ As a Data Engineer, I wield the power of data to unravel the mysteries of comple
 - 📍 **Location**: Operating from the mystical realms of Oshawa, ON, Canada
 
 Ready to unlock the secrets of your data? Let’s conjure up innovative solutions together!
-
----
-
-Feel free to adjust any details or let me know if there’s anything else you’d like to add!
