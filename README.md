@@ -18,7 +18,7 @@ I’m a Data Engineer who turns chaotic datasets into clear, actionable insights
 
 ## Let’s Connect 🌐
 - 📧 **Email**: [iharvinder15@gmail.com](mailto:iharvinder15@gmail.com)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/harvinderr15/)
 - 📍 **Location**: Casting data spells from Oshawa, ON, Canada
 
 Ready to transform your data into something magical? Let’s make some data-driven magic together! 🪄✨
